@@ -7,7 +7,6 @@ for letter in string.ascii_letters:
     priorities[letter] = i
     i = i + 1
 
-
 # populate rucksacks from input file
 rucksacks = {}
 i = 0
